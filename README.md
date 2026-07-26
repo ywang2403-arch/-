@@ -77,9 +77,10 @@ Neocities｜ARG女性向网页解谜游戏
 <img width="1409" height="662" alt="截屏2026-07-26 15 59 44" src="https://github.com/user-attachments/assets/56d9a8c9-28e1-4c74-8f9e-08e4b089fcf3" />
 <img width="1409" height="662" alt="截屏2026-07-26 15 59 54" src="https://github.com/user-attachments/assets/f86077da-d6aa-441a-a51b-6d700d617879" />
 <img width="1409" height="662" alt="截屏2026-07-26 16 00 03" src="https://github.com/user-attachments/assets/fac2194d-95c4-41a5-905f-3a48d6f76421" />
-<img width="1409" height="662" alt="截屏2026-07-26 19 22 00" src="https://github.com/user-attachments/assets/adaf1bc1-187b-466d-8710-f081bf477ad6" />
-<img width="1409" height="662" alt="截屏2026-07-26 19 21 23" src="https://github.com/user-attachments/assets/3d7d119f-3d6c-473b-9329-d003168ad8de" />
-<img width="1409" height="662" alt="截屏2026-07-26 19 24 10" src="https://github.com/user-attachments/assets/d0466aaa-fe4e-405e-b6d1-cfcee9f78214" />
+<img width="1362" height="747" alt="截屏2026-07-26 19 24 10" src="https://github.com/user-attachments/assets/46c31ef2-8875-4585-8f05-3b9d4091d21d" />
+<img width="1269" height="760" alt="截屏2026-07-26 19 22 00" src="https://github.com/user-attachments/assets/f7171e7a-954a-4b6e-a6f8-22a1a952124e" />
+<img width="1372" height="785" alt="截屏2026-07-26 19 21 23" src="https://github.com/user-attachments/assets/5b32186b-f8c6-4b6d-affe-3c085d3143d3" />
+
 
 
 
