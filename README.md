@@ -72,4 +72,11 @@ Neocities｜ARG女性向网页解谜游戏
 
 ---
 
-## 🎮 游戏预览（以下画面可能引起不适）
+## 🎮 游戏预览 （Preview）
+
+<img width="1409" height="662" alt="截屏2026-07-26 16 00 03" src="https://github.com/user-attachments/assets/fac2194d-95c4-41a5-905f-3a48d6f76421" />
+<img width="1409" height="662" alt="截屏2026-07-26 15 59 54" src="https://github.com/user-attachments/assets/f86077da-d6aa-441a-a51b-6d700d617879" />
+<img width="1409" height="662" alt="截屏2026-07-26 15 59 44" src="https://github.com/user-attachments/assets/56d9a8c9-28e1-4c74-8f9e-08e4b089fcf3" />
+
+
+
